@@ -2,7 +2,6 @@ package ru.netology.data;
 
 import com.github.javafaker.Faker;
 import lombok.Value;
-import ru.netology.page.VerificationPage;
 
 import java.util.Locale;
 
